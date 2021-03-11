@@ -1,0 +1,25 @@
+[{
+    "id": 1,
+    "name": "Alfian",
+    "work": "Backend Dev",
+    "salary": "Alfian@april.biz"
+},
+{
+    "id": 2,
+    "name": "Irfan",
+    "work": "Frontend Dev",
+    "salary": "Irfan@april.biz"
+},
+{
+    "id": 3,
+    "name": "Patrick",
+    "work": "Fullstack Dev",
+    "salary": "Patrick@april.biz"
+},
+{
+    "id": 4,
+    "name": "Satria",
+    "work": "Frontend Dev",
+    "salary": "Satria@april.biz"
+}
+]
