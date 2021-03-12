@@ -2,24 +2,24 @@
     "id": 1,
     "name": "Alfian",
     "work": "Backend Dev",
-    "salary": "Alfian@april.biz"
+    "salary": "4000000"
 },
 {
     "id": 2,
     "name": "Irfan",
     "work": "Frontend Dev",
-    "salary": "Irfan@april.biz"
+    "salary": "3000000"
 },
 {
     "id": 3,
     "name": "Patrick",
     "work": "Fullstack Dev",
-    "salary": "Patrick@april.biz"
+    "salary": "2000000"
 },
 {
     "id": 4,
     "name": "Satria",
     "work": "Frontend Dev",
-    "salary": "Satria@april.biz"
+    "salary": "4000000"
 }
 ]
